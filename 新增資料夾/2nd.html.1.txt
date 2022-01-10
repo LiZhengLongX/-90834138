@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>蔥油餅</title>
+</head>
+<body>
+
+<h2>蔥油餅做法</h2><br>
+<h2>食材</h2><br>
+・中筋麵粉 500克<br>
+・蔥花<br>
+・砂糖 少許<br>
+・白胡椒少許<br>
+・溫水 300cc<br>
+
+<h2>醬汁</h2><br>
+・醬油膏<br>
+・番茄醬<br>
+・辣椒醬<br>
+
+(1)將麵團分成一份100g小麵團，約可分為8個。<br>
+(2)小麵團、擀麵棍上抹油備用。<br>
+(3)將小麵團手壓、擀平約0.2~0.5公分，中間均勻放上適量蔥花後捲起。<br>
+(4)捲呈長條狀後再鬆弛半小時後，即可盤起成立體螺狀，再壓扁繼續擀平，讓層次更多元。<br>
+(5)鍋中放入些許豬油(也可用一般油)後，稍微熱鍋即可將蔥油餅放入香煎，至兩面微焦金黃即可起鍋。<br>
+<img src="01.jpg" width="400" height="300" align="left"><br>
+
+<a href="index.html">首頁</a>&nbsp&nbsp&nbsp
+<a href="3rd.html">紅豆餅</a>&nbsp&nbsp&nbsp&nbsp
+<a href="4th.html">雞排</a>&nbsp&nbsp&nbsp&nbsp
+<a href="5th.html">心得</a>&nbsp&nbsp&nbsp
+
+<audio src="13.mp3"controls autoplay></audio>
+
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+<html>
+<head>
+<title>紅豆餅</title>
+</head>
+<body>
+
+<h2>紅豆餅做法</h2><br>
+
+<h2>餅皮</h2><br>
+低筋麵粉 180克<br>
+雞蛋 2顆<br>
+泡打粉 3克<br>
+
+<h2>內餡</h2><br>
+紅豆<br>
+奶油<br>
+芋泥<br>
+
+
+1.雞蛋、糖、鮮奶先混合拌勻，再倒入過篩粉類拌勻。<br>
+2.然後倒入玄米油拌勻，靜置30分鐘，讓麵糊更融合。<br>
+3.機器插電預熱，預熱好後放入一匙麵糊，用木棒把麵糊均勻推開<br>
+4.等麵糊周圍冒泡泡後，填入餡料<br>
+5.另一個凹槽也填入麵糊，用木棒推勻，等待周圍冒泡泡時，就可以把兩個結合在一起。<br>
+6.結合在一起後，繼續把顏色烤到好。<br>
+
+
+<img src="02.jpg" width="400" height="300" align="left"><br>
+
+<a href="index.html">首頁</a>&nbsp&nbsp&nbsp
+<a href="3rd.html">蔥油餅</a>&nbsp&nbsp&nbsp&nbsp
+<a href="4th.html">雞排</a>&nbsp&nbsp&nbsp&nbsp
+<a href="5th.html">心得</a>&nbsp&nbsp&nbsp
+
+<audio src="13.mp3"controls autoplay></audio>
+
+</body>
+</html>
